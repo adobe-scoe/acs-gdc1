@@ -205,7 +205,7 @@ main blockquote p::after {
 
 main img {
   max-width: 100%;
-  width: auto;
+  /*width: auto;*/
   height: auto;
 }
 
