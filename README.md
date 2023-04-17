@@ -2,6 +2,8 @@
 Your project's description...
 
 ## Environments
+- Dev Live: https://develop--acs-gdc--adobe-scoe.hlx.live/
+- Dev Preview: https://develop--acs-gdc--adobe-scoe.hlx.page/
 - Preview: https://main--acs-gdc--adobe-scoe.hlx.page/
 - Live: https://main--acs-gdc--adobe-scoe.hlx.live/
 - Live Domain : https://acs-gdc.adobe.com
